@@ -2,7 +2,7 @@
 To share any useful script I try and it works
 
 ### CassandraDockerfile
-This sample Dockerfile which show how to generate cassandra docker image with initial execution of cql command.
+This sample Cassandra Dockerfile which show how to generate cassandra docker image with initial execution of cql command.
 #### HOW TO RUN
 ```
 put the designate cql file inside folder "cqlfile"
