@@ -5,7 +5,7 @@ To share any useful script I try and it works
 This sample Dockerfile show how to generate cassandra docker image with initial execution of cql command.
 #### HOW TO RUN
 ```
-\\put the designate cql file inside folder "cqlfile"
+put the designate cql file inside folder "cqlfile"
 sh run.sh
 ```
 #### Reference
